@@ -1,12 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
-
 <library>
     <book>
         <title>1984</title>
         <author>George Orwell</author>
         <genre>Dystopian</genre>
         <year>1949</year>
-        <price>9.99</price>
+        <price>299</price>
     </book>
 
     <book>
@@ -33,11 +31,4 @@
         <price>10.75</price>
     </book>
 
-    <book>
-        <title>Clean Code</title>
-        <author>Robert C. Martin</author>
-        <genre>Programming</genre>
-        <year>2008</year>
-        <price>35.00</price>
-    </book>
-</library>
+    </library>
